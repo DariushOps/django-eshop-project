@@ -1,0 +1,14 @@
+        .jumbotron {
+            padding: 20px;
+            margin-bottom: 20px;
+            background-color: #3CBC8D;
+        }
+
+        input[type=submit] {
+            padding: 5px 15px;
+            background: darkcyan;
+            border: 0 none;
+            cursor: pointer;
+            -webkit-border-radius: 5px;
+            border-radius: 5px;
+        }
